@@ -2,7 +2,6 @@ package com.example.lesson1_task1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import java.lang.ref.SoftReference
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
