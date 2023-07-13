@@ -5,7 +5,7 @@ fun main() {
     val inn = "D3"
     val num = 2
 
-    //решенеи
+    //решение
     val resultString = "$from - $inn; $num"
     println(resultString)
 }
