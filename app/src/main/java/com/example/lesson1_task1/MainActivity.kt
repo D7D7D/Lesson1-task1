@@ -13,3 +13,7 @@ class MainActivity : AppCompatActivity() {
     var review: String? = null
 
 }
+
+fun mail() {
+    print("Это решение Урока 1 задача 1")
+}
