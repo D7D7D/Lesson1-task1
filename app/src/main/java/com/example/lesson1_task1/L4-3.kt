@@ -13,3 +13,4 @@ fun main() {
 
     println(weather1 == weather && tent == tent1 && space1 >= space && summer1 == summer)
 }
+
